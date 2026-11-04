@@ -1,9 +1,12 @@
 # Analisis Kinerja Smelter dengan Python (Fase 0–3)
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/smelter-operations-analytics/blob/main/notebooks/00_Validasi_Data.ipynb)
 
 Portofolio *Smelter Reporting & Data Analyst*: 13 notebook Python yang mengubah data produksi, downtime, mutu, dan komponen kritis smelter tembaga menjadi insight dan rekomendasi untuk manajemen.
 Periode data: 1 Januari – 30 September 2026 (273 hari). Bahasa notebook: Indonesia.
 
-> **Catatan data.** Ini proyek portofolio berbasis *skenario latihan* (terinspirasi operasi smelter tembaga), **bukan data operasional perusahaan mana pun** dan tidak berafiliasi dengan pihak lain. Tiga tabel inti (`Data_Harian`, `Downtime_Log`, `QC_Lab`) adalah data skenario; empat tabel lain (`Proses_Harian`, `Produksi_Shift`, `Harga_Biaya`, `Komponen_Kritis`) **disimulasikan** dengan seed tetap. Harga, tarif, biaya program, dan batas spesifikasi adalah angka contoh. Karena itu, angka dolar dan kesimpulan per komponen/shift bersifat ilustratif. Rincian di [`docs/kamus_data.md`](docs/kamus_data.md).
+> **Catatan data.** Ini proyek portofolio berbasis *skenario latihan* (terinspirasi operasi smelter tembaga), **bukan data operasional perusahaan mana pun** dan tidak berafiliasi dengan pihak manapun. Tiga tabel inti (`Data_Harian`, `Downtime_Log`, `QC_Lab`) adalah data skenario; empat tabel lain (`Proses_Harian`, `Produksi_Shift`, `Harga_Biaya`, `Komponen_Kritis`) **disimulasikan** dengan seed tetap. Harga, tarif, biaya program, dan batas spesifikasi adalah angka contoh. Karena itu, angka dolar dan kesimpulan per komponen/shift bersifat ilustratif. Rincian di [`docs/kamus_data.md`](docs/kamus_data.md).
 
 ## Temuan utama
 
