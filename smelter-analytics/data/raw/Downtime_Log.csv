@@ -1,0 +1,74 @@
+ID_Kejadian,Tanggal,Unit,Kategori,Penyebab,Durasi_Jam
+DT-001,2026-01-04,Acid Plant,Tidak Terjadwal,Gangguan demister,3.0
+DT-002,2026-01-07,Converter,Tidak Terjadwal,Gangguan tuyere,2.0
+DT-003,2026-01-11,Acid Plant,Tidak Terjadwal,Gangguan demister,2.0
+DT-004,2026-01-12,Flash Smelting Furnace,Tidak Terjadwal,Kebocoran waste heat boiler,2.0
+DT-005,2026-01-19,Pembangkit/Listrik,Tidak Terjadwal,Trip jaringan listrik,2.0
+DT-006,2026-01-21,Converter,Terjadwal,Perawatan preventif rutin,8.0
+DT-007,2026-01-26,Refinery (Tankhouse),Tidak Terjadwal,Gangguan rectifier,1.0
+DT-008,2026-02-02,Converter,Tidak Terjadwal,Gangguan tuyere,3.0
+DT-009,2026-02-11,Anode Furnace,Terjadwal,Perawatan preventif rutin,6.0
+DT-010,2026-02-12,Converter,Tidak Terjadwal,Gangguan tuyere,3.0
+DT-011,2026-02-15,Converter,Tidak Terjadwal,Gangguan tuyere,4.0
+DT-012,2026-03-07,Flash Smelting Furnace,Tidak Terjadwal,Gangguan burner,2.0
+DT-013,2026-03-07,Oxygen Plant,Tidak Terjadwal,Trip kompresor udara,8.0
+DT-014,2026-03-17,Anode Furnace,Terjadwal,Inspeksi & kalibrasi,10.0
+DT-015,2026-03-18,Flash Smelting Furnace,Tidak Terjadwal,Blokir tapping hole,1.5
+DT-016,2026-03-28,Flash Smelting Furnace,Tidak Terjadwal,Kebocoran waste heat boiler,4.0
+DT-017,2026-04-02,Material Handling & Pelabuhan,Tidak Terjadwal,Cuaca buruk - bongkar muat tertunda,1.0
+DT-018,2026-04-03,Flash Smelting Furnace,Tidak Terjadwal,Kebocoran waste heat boiler,1.0
+DT-019,2026-04-04,Acid Plant,Tidak Terjadwal,Gangguan demister,1.0
+DT-020,2026-04-11,Converter,Tidak Terjadwal,Gangguan tuyere,2.0
+DT-021,2026-04-14,Flash Smelting Furnace,Terjadwal,Penggantian refractory terjadwal,14.0
+DT-022,2026-04-15,Flash Smelting Furnace,Terjadwal,Penggantian refractory terjadwal,14.0
+DT-023,2026-04-16,Flash Smelting Furnace,Terjadwal,Penggantian refractory terjadwal,14.0
+DT-024,2026-04-17,Flash Smelting Furnace,Terjadwal,Penggantian refractory terjadwal,14.0
+DT-025,2026-04-18,Refinery (Tankhouse),Terjadwal,Inspeksi & kalibrasi,4.0
+DT-026,2026-04-18,Flash Smelting Furnace,Terjadwal,Penggantian refractory terjadwal,12.0
+DT-027,2026-04-19,Flash Smelting Furnace,Terjadwal,Penggantian refractory terjadwal,14.0
+DT-028,2026-04-22,Oxygen Plant,Tidak Terjadwal,Trip kompresor udara,1.5
+DT-029,2026-04-23,Converter,Tidak Terjadwal,Gangguan tuyere,4.0
+DT-030,2026-04-27,Acid Plant,Tidak Terjadwal,Trip blower SO2,3.0
+DT-031,2026-04-29,Anode Furnace,Tidak Terjadwal,Gangguan casting wheel,3.0
+DT-032,2026-05-02,Flash Smelting Furnace,Tidak Terjadwal,Blokir tapping hole,2.0
+DT-033,2026-05-04,Oxygen Plant,Tidak Terjadwal,Gangguan cold box,2.0
+DT-034,2026-05-08,Oxygen Plant,Tidak Terjadwal,Trip kompresor udara,1.5
+DT-035,2026-05-11,Oxygen Plant,Tidak Terjadwal,Gangguan cold box,1.5
+DT-036,2026-05-21,Oxygen Plant,Terjadwal,Perawatan preventif rutin,6.0
+DT-037,2026-05-25,Anode Furnace,Tidak Terjadwal,Gangguan casting wheel,6.0
+DT-038,2026-05-30,Converter,Tidak Terjadwal,Refractory bermasalah,4.0
+DT-039,2026-06-01,Acid Plant,Tidak Terjadwal,Gangguan demister,6.0
+DT-040,2026-06-02,Refinery (Tankhouse),Tidak Terjadwal,Kebocoran sel elektrolisis,6.0
+DT-041,2026-06-08,Refinery (Tankhouse),Terjadwal,Inspeksi & kalibrasi,10.0
+DT-042,2026-06-13,Flash Smelting Furnace,Tidak Terjadwal,Blokir tapping hole,2.0
+DT-043,2026-06-14,Material Handling & Pelabuhan,Tidak Terjadwal,Cuaca buruk - bongkar muat tertunda,1.5
+DT-044,2026-06-15,Acid Plant,Tidak Terjadwal,Gangguan demister,6.0
+DT-045,2026-06-18,Pembangkit/Listrik,Tidak Terjadwal,Trip jaringan listrik,3.0
+DT-046,2026-06-19,Material Handling & Pelabuhan,Tidak Terjadwal,Cuaca buruk - bongkar muat tertunda,1.5
+DT-047,2026-06-21,Refinery (Tankhouse),Tidak Terjadwal,Gangguan rectifier,3.0
+DT-048,2026-06-21,Refinery (Tankhouse),Tidak Terjadwal,Kebocoran sel elektrolisis,3.0
+DT-049,2026-06-27,Pembangkit/Listrik,Tidak Terjadwal,Gangguan boiler,3.0
+DT-050,2026-06-30,Oxygen Plant,Tidak Terjadwal,Gangguan cold box,2.0
+DT-051,2026-07-01,Oxygen Plant,Tidak Terjadwal,Trip kompresor udara,8.0
+DT-052,2026-07-03,Flash Smelting Furnace,Tidak Terjadwal,Kebocoran waste heat boiler,3.0
+DT-053,2026-07-10,Oxygen Plant,Terjadwal,Penggantian refractory terjadwal,10.0
+DT-054,2026-07-11,Anode Furnace,Tidak Terjadwal,Gangguan casting wheel,3.0
+DT-055,2026-07-15,Pembangkit/Listrik,Tidak Terjadwal,Trip jaringan listrik,1.5
+DT-056,2026-07-18,Flash Smelting Furnace,Tidak Terjadwal,Kebocoran waste heat boiler,6.0
+DT-057,2026-07-19,Oxygen Plant,Tidak Terjadwal,Trip kompresor udara,8.0
+DT-058,2026-07-21,Refinery (Tankhouse),Tidak Terjadwal,Gangguan rectifier,1.5
+DT-059,2026-07-23,Oxygen Plant,Tidak Terjadwal,Trip kompresor udara,3.0
+DT-060,2026-07-23,Converter,Tidak Terjadwal,Gangguan tuyere,4.0
+DT-061,2026-07-27,Oxygen Plant,Tidak Terjadwal,Trip kompresor udara,4.0
+DT-062,2026-07-31,Material Handling & Pelabuhan,Tidak Terjadwal,Gangguan conveyor konsentrat,1.5
+DT-063,2026-08-04,Refinery (Tankhouse),Tidak Terjadwal,Gangguan rectifier,6.0
+DT-064,2026-08-04,Flash Smelting Furnace,Tidak Terjadwal,Kebocoran waste heat boiler,3.0
+DT-065,2026-08-06,Oxygen Plant,Tidak Terjadwal,Gangguan cold box,1.0
+DT-066,2026-08-07,Oxygen Plant,Terjadwal,Penggantian refractory terjadwal,10.0
+DT-067,2026-09-07,Acid Plant,Tidak Terjadwal,Trip blower SO2,3.0
+DT-068,2026-09-08,Material Handling & Pelabuhan,Tidak Terjadwal,Cuaca buruk - bongkar muat tertunda,3.0
+DT-069,2026-09-13,Pembangkit/Listrik,Tidak Terjadwal,Trip jaringan listrik,4.0
+DT-070,2026-09-17,Anode Furnace,Terjadwal,Penggantian refractory terjadwal,6.0
+DT-071,2026-09-21,Pembangkit/Listrik,Tidak Terjadwal,Trip jaringan listrik,4.0
+DT-072,2026-09-21,Flash Smelting Furnace,Tidak Terjadwal,Kebocoran waste heat boiler,1.0
+DT-073,2026-09-25,Acid Plant,Tidak Terjadwal,Trip blower SO2,1.0
