@@ -99,4 +99,4 @@ Data historian dan CMMS nyata, biaya resmi dari Finance, periode 24–36 bulan, 
 
 ## Lisensi
 
-Kode: MIT (lihat `LICENSE`; isi nama Anda). Data: skenario latihan untuk keperluan belajar dan portofolio.
+Kode: MIT (Copyright (c) 2026 [Wahyu Akbar]; akbarparsan). Data: skenario latihan untuk keperluan belajar dan portofolio.
